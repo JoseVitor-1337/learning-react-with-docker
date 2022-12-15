@@ -1,4 +1,4 @@
-# Reactt with Docker
+# React with Docker
 
 ### How to create a react application and deploy with docker
 
