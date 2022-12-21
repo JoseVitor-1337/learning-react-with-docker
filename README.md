@@ -1,8 +1,6 @@
-# Reactt with Docker
+# React with Docker
 
 ### How to create a react application and deploy with docker
-
-<br />
 
 ## Technologies used
 
@@ -14,8 +12,6 @@
 
 - [Docker](https://docs.docker.com/engine/install/ubuntu/)
 
-<br />
-
 ## Required installation
 
 > Need have **docker** installed [Install Docker](https://docs.docker.com/engine/install/ubuntu/)
@@ -23,8 +19,6 @@
 > Need have **npm** installed [Install NPM](https://nodejs.org/en/)
 
 > Need have **git** installed [Install git](https://git-scm.com/downloads)
-
-<br />
 
 ## Docker Commands
 
