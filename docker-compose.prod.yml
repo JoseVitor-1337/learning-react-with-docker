@@ -8,6 +8,6 @@ services:
       context: .
       dockerfile: Dockerfile.prod
       args:
-        - REACT_APP_ENVINRONMENT=prod
+        - REACT_APP_ENVINRONMENT=Prod
     ports:
       - "8080:80"

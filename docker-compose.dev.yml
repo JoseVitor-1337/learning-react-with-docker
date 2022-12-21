@@ -4,9 +4,13 @@ services:
   react-app:
     image: "react-image-dev"
     container_name: "react-app-dev"
+    stdin_open: true
+    tty: true
     build:
       context: .
       dockerfile: Dockerfile.dev
+    environment:
+      - WATCHPACK_POLLING=true
     ports:
       - "3000:3000"
     volumes:
